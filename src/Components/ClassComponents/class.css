@@ -1,0 +1,9 @@
+.class{
+    display: flex;
+    justify-content: center;
+}
+
+.classHeader{
+    display: flex;
+    justify-content: center;
+}

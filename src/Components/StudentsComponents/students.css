@@ -1,0 +1,17 @@
+.students{
+    display: flex;
+    justify-content: center;
+}
+
+.studentHeader{
+    display: flex;
+    justify-content: center;
+}
+
+.studentDetails{
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+  
+}
