@@ -5,13 +5,13 @@
 
 .ClassComponent{
   flex: 1;
-  background-color: aqua;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .StudentComponent{
   flex: 1;
-  height: 100vh;
-  background-color:bisque
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
 }
 
 .controls{

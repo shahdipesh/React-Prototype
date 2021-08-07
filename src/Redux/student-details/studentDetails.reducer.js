@@ -1,7 +1,11 @@
 const initialState = {
     studentDetails: [
         { id: 1, name: 'Dipesh', isSelected: false , currentClass:'none'},
-        { id: 2, name: 'Kismat',isSelected:false, currentClass: 'none' }
+        { id: 2, name: 'Kismat',isSelected:false, currentClass: 'none' },
+        { id: 3, name: 'Pramesh', isSelected: false , currentClass:'none'},
+        { id: 4, name: 'Sabhyam',isSelected:false, currentClass: 'none' },
+        { id: 5, name: 'Praveen', isSelected: false , currentClass:'none'},
+        { id: 6, name: 'Gandu',isSelected:false, currentClass: 'none' }
     ]
 }
 

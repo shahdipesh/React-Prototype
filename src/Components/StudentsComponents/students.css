@@ -10,8 +10,9 @@
 
 .studentDetails{
     display: flex;
-    height: 80vh;
-    justify-content: center;
+   height: 80vh;
+    justify-content: space-evenly;
     align-items: center;
+    flex-direction: column;
   
 }
